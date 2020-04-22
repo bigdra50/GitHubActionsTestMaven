@@ -1,7 +1,7 @@
 
-public class GitHubActionsTest {
+public class GitHubActionsMaven {
     public static void main(String[] args){
-        System.out.println("Helloooooo");
+        System.out.println("Hello");
     }
 
     public static int add(int x, int y){
