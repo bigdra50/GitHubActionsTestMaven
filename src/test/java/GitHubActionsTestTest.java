@@ -6,7 +6,7 @@ class GitHubActionsTestTest {
 
     @Test
     void addTest() {
-        assertEquals(4, GitHubActionsMaven.add(2, 3));
+        assertEquals(5, GitHubActionsMaven.add(2, 3));
     }
 
     @Test

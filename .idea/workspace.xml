@@ -4,10 +4,6 @@
     <list default="true" id="033aecc1-9261-4646-a608-32393e6c150a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/GitHubActionsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GitHubActionsMaven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/GitHubActionsTestTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/GitHubActionsTestTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/GitHubActionsTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/GitHubActionsTestTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/GitHubActionsTestTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,6 +133,7 @@
       <updated>1587578841750</updated>
       <workItem from="1587578844330" duration="5511000" />
       <workItem from="1587585246986" duration="438000" />
+      <workItem from="1587586580240" duration="3424000" />
     </task>
     <servers />
   </component>
